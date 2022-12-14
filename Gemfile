@@ -45,4 +45,6 @@ group :test do
   gem 'capybara-webkit'
   gem 'factory_girl_rails', :require => false
   gem 'simplecov'
+
+  gem 'i18n-js'
 end
